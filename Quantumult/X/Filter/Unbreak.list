@@ -17,3 +17,7 @@ DOMAIN,analytics.strava.com,DIRECT
 # > Umeng
 DOMAIN,msg.umeng.com,DIRECT
 DOMAIN,msg.umengcloud.com,DIRECT
+# > Blizzard
+DOMAIN-SUFFIX,blizzard.com.cn,DIRECT
+DOMAIN-SUFFIX,battle.net,DIRECT
+DOMAIN,blzddist1-a.akamaihd.net,DIRECT
